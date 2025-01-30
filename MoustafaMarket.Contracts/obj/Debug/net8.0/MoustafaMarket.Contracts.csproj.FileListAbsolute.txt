@@ -9,3 +9,15 @@ D:\DotNet Core\Domain Driver Design\Projects\MoustafaMarket\MoustafaMarket.Contr
 D:\DotNet Core\Domain Driver Design\Projects\MoustafaMarket\MoustafaMarket.Contracts\obj\Debug\net8.0\refint\MoustafaMarket.Contracts.dll
 D:\DotNet Core\Domain Driver Design\Projects\MoustafaMarket\MoustafaMarket.Contracts\obj\Debug\net8.0\MoustafaMarket.Contracts.pdb
 D:\DotNet Core\Domain Driver Design\Projects\MoustafaMarket\MoustafaMarket.Contracts\obj\Debug\net8.0\ref\MoustafaMarket.Contracts.dll
+D:\MoustafaMarket\MoustafaMarket.Contracts\bin\Debug\net8.0\MoustafaMarket.Contracts.deps.json
+D:\MoustafaMarket\MoustafaMarket.Contracts\bin\Debug\net8.0\MoustafaMarket.Contracts.dll
+D:\MoustafaMarket\MoustafaMarket.Contracts\bin\Debug\net8.0\MoustafaMarket.Contracts.pdb
+D:\MoustafaMarket\MoustafaMarket.Contracts\obj\Debug\net8.0\MoustafaMarket.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\MoustafaMarket\MoustafaMarket.Contracts\obj\Debug\net8.0\MoustafaMarket.Contracts.AssemblyInfoInputs.cache
+D:\MoustafaMarket\MoustafaMarket.Contracts\obj\Debug\net8.0\MoustafaMarket.Contracts.AssemblyInfo.cs
+D:\MoustafaMarket\MoustafaMarket.Contracts\obj\Debug\net8.0\MoustafaMarket.Contracts.csproj.CoreCompileInputs.cache
+D:\MoustafaMarket\MoustafaMarket.Contracts\obj\Debug\net8.0\MoustafaMarket.Contracts.sourcelink.json
+D:\MoustafaMarket\MoustafaMarket.Contracts\obj\Debug\net8.0\MoustafaMarket.Contracts.dll
+D:\MoustafaMarket\MoustafaMarket.Contracts\obj\Debug\net8.0\refint\MoustafaMarket.Contracts.dll
+D:\MoustafaMarket\MoustafaMarket.Contracts\obj\Debug\net8.0\MoustafaMarket.Contracts.pdb
+D:\MoustafaMarket\MoustafaMarket.Contracts\obj\Debug\net8.0\ref\MoustafaMarket.Contracts.dll

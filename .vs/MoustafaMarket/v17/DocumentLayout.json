@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\MoustafaMarket\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65A85CBC-1074-4B42-A87C-5788567F0083}|MoustafaMarket.Infrastructure\\MoustafaMarket.Infrastructure.csproj|d:\\moustafamarket\\moustafamarket.infrastructure\\moustafamarket.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{65A85CBC-1074-4B42-A87C-5788567F0083}|MoustafaMarket.Infrastructure\\MoustafaMarket.Infrastructure.csproj|solutionrelative:moustafamarket.infrastructure\\moustafamarket.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoustafaMarket.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\MoustafaMarket\\MoustafaMarket.Infrastructure\\MoustafaMarket.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "MoustafaMarket.Infrastructure\\MoustafaMarket.Infrastructure.csproj",
+              "ToolTip": "D:\\MoustafaMarket\\MoustafaMarket.Infrastructure\\MoustafaMarket.Infrastructure.csproj",
+              "RelativeToolTip": "MoustafaMarket.Infrastructure\\MoustafaMarket.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-23T11:31:03.48Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

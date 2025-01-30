@@ -15,3 +15,22 @@ D:\DotNet Core\Domain Driver Design\Projects\MoustafaMarket\MoustafaMarket.Infra
 D:\DotNet Core\Domain Driver Design\Projects\MoustafaMarket\MoustafaMarket.Infrastructure\bin\Debug\net8.0\MoustafaMarket.Domain.pdb
 D:\DotNet Core\Domain Driver Design\Projects\MoustafaMarket\MoustafaMarket.Infrastructure\obj\Debug\net8.0\MoustafaMarket.Infrastructure.csproj.AssemblyReference.cache
 D:\DotNet Core\Domain Driver Design\Projects\MoustafaMarket\MoustafaMarket.Infrastructure\obj\Debug\net8.0\Moustafa.E3F09D38.Up2Date
+D:\DotNet Core\Domain Driver Design\Projects\MoustafaMarket\MoustafaMarket.Infrastructure\obj\Debug\net8.0\MoustafaMarket.Infrastructure.sourcelink.json
+D:\MoustafaMarket\MoustafaMarket.Infrastructure\obj\Debug\net8.0\MoustafaMarket.Infrastructure.dll
+D:\MoustafaMarket\MoustafaMarket.Infrastructure\obj\Debug\net8.0\refint\MoustafaMarket.Infrastructure.dll
+D:\MoustafaMarket\MoustafaMarket.Infrastructure\obj\Debug\net8.0\MoustafaMarket.Infrastructure.pdb
+D:\MoustafaMarket\MoustafaMarket.Infrastructure\bin\Debug\net8.0\MoustafaMarket.Infrastructure.deps.json
+D:\MoustafaMarket\MoustafaMarket.Infrastructure\bin\Debug\net8.0\MoustafaMarket.Infrastructure.dll
+D:\MoustafaMarket\MoustafaMarket.Infrastructure\bin\Debug\net8.0\MoustafaMarket.Infrastructure.pdb
+D:\MoustafaMarket\MoustafaMarket.Infrastructure\bin\Debug\net8.0\MoustafaMarket.Application.dll
+D:\MoustafaMarket\MoustafaMarket.Infrastructure\bin\Debug\net8.0\MoustafaMarket.Domain.dll
+D:\MoustafaMarket\MoustafaMarket.Infrastructure\bin\Debug\net8.0\MoustafaMarket.Application.pdb
+D:\MoustafaMarket\MoustafaMarket.Infrastructure\bin\Debug\net8.0\MoustafaMarket.Domain.pdb
+D:\MoustafaMarket\MoustafaMarket.Infrastructure\obj\Debug\net8.0\MoustafaMarket.Infrastructure.csproj.AssemblyReference.cache
+D:\MoustafaMarket\MoustafaMarket.Infrastructure\obj\Debug\net8.0\MoustafaMarket.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\MoustafaMarket\MoustafaMarket.Infrastructure\obj\Debug\net8.0\MoustafaMarket.Infrastructure.AssemblyInfoInputs.cache
+D:\MoustafaMarket\MoustafaMarket.Infrastructure\obj\Debug\net8.0\MoustafaMarket.Infrastructure.AssemblyInfo.cs
+D:\MoustafaMarket\MoustafaMarket.Infrastructure\obj\Debug\net8.0\MoustafaMarket.Infrastructure.csproj.CoreCompileInputs.cache
+D:\MoustafaMarket\MoustafaMarket.Infrastructure\obj\Debug\net8.0\MoustafaMarket.Infrastructure.sourcelink.json
+D:\MoustafaMarket\MoustafaMarket.Infrastructure\obj\Debug\net8.0\Moustafa.E3F09D38.Up2Date
+D:\MoustafaMarket\MoustafaMarket.Infrastructure\obj\Debug\net8.0\ref\MoustafaMarket.Infrastructure.dll

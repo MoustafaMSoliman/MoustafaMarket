@@ -1,8 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "X0ED+gO2LX0=",
+  "dgSpecHash": "HAY9Z7RN6mo/CxsVK8OpC4zkB+rHKkZqaWLceqaoXmhPYgt5zCkaDeGVJCD3zTBHxRJVVJMUCfjvPkrKW6klvg==",
   "success": true,
-  "projectFilePath": "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Application\\MoustafaMarket.Application.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\MoustafaMarket\\MoustafaMarket.Application\\MoustafaMarket.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Moustafa\\.nuget\\packages\\autofac\\8.1.1\\autofac.8.1.1.nupkg.sha512",
+    "C:\\Users\\Moustafa\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
+    "C:\\Users\\Moustafa\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
+    "C:\\Users\\Moustafa\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\Moustafa\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "C:\\Users\\Moustafa\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\Moustafa\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Moustafa\\.nuget\\packages\\mediatr.extensions.autofac.dependencyinjection\\12.2.0\\mediatr.extensions.autofac.dependencyinjection.12.2.0.nupkg.sha512",
+    "C:\\Users\\Moustafa\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.1\\microsoft.extensions.dependencyinjection.abstractions.9.0.1.nupkg.sha512",
+    "C:\\Users\\Moustafa\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.1\\system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
