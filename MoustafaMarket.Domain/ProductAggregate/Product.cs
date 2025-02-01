@@ -14,22 +14,24 @@ public class Product : AggregateRoot<ProductId>
     public IReadOnlyList<Review> Reviews => _reviews.AsReadOnly();
 
     public Dimensions Dimensions { get; private set; } = null!;
-    public string? Image { get; private set; }
+    public string[]? Images { get; private set; }
     public int Quantity { get; private set; }
     public Category Category { get; private set; } = null!;
 
 #pragma warning disable CS8618
     private Product() { }
 #pragma warning restore CS8618
-    private Product(ProductId productId, string name, string description, Money price, Dimensions dimensions, string image)
+    private Product(ProductId productId, string name, string description, Money price, Dimensions dimensions, string[]? images)
         :base(productId) 
     {
         Name = name;
         Description = description;
         Price = price;
         Dimensions = dimensions;
-        Image = image;
+        Images = images;
     }
+    public static Product Create(ProductId productId, string name, string description, Money price, Dimensions dimensions, string[]? images)
+        => new(productId, name, description, price,dimensions, images);
 
-
+    
 }
