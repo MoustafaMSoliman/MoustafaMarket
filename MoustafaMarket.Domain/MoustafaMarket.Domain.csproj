@@ -7,11 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="CategoryAggregate\Entities\" />
     <Folder Include="Common\Interfaces\" />
     <Folder Include="CustomerAggregate\Entities\" />
-    <Folder Include="ProductAggregate\Entities\" />
-    <Folder Include="UserAggregate\Entities\" />
   </ItemGroup>
 
   <ItemGroup>

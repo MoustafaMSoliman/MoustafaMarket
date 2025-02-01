@@ -1,0 +1,131 @@
+-Before writing code, it's essential to plan the system with a high-level design that
+  defines its architecture, components, and interactions.
+
+[1] Functional Requirements
+---------------------------
+ - User Management: Register, Login, Manage Profile, Reset Password
+ - Product Management: Add, Update, Delete, List All.
+ - Shopping Cart: Add Items, Remove Items, Calc Total Cost
+ - Order Processing: Place an Order, Cancel an Order, Track Order Status.
+ - Payment Handling: Integrate with payment gateways
+ - Inventory Management: Update stock levels, Notify out-of-stock items.
+ - Notifications: Send Order Confirmations, Shipping Updates, Promotions
+ - Admin Panel: Manage users, View Analytics, Handle Refunds.
+
+[2] Non-Functional Requirements
+-------------------------------
+ - Scalability: Handle high traffic without performance degradation.
+ - Performance: API response time under 200ms.
+ - Security: JWT Authentication
+ - Reliability: Event-driven communication
+ - Maintainability: Follow DDD, SOLID and Clean Architecture
+ - Extensibility: Support new features without major refactoring
+ - Observability: Include logging, monitoring and error tracking.
+
+[3] Technology Stack
+--------------------
+ - Backend Framework   | .NET 8 (ASP.NET Core Web API)
+ - Database            | SQL Server
+ - ORM                 | Entity Framework Core
+ - Authentication      | JWT
+ - Caching             | Redis
+ - Testing             | XUnit
+
+[4] Aggregate Roots
+-------------------
+  Root       | Entities           | Value Objects      | Domain Events
+  ---------------------------------------------------------------------
+ - User      | User, Address,     | Email, PhoneNumber | UserRegisteredEvent,
+             | PaymentMethod      |                    | UserUpdateEvent
+-----------------------------------------------------------------------
+ - Product   | Product, Category, | Money,             | ProductAddedEvent,
+             | Review             | Dimensions         | ProductUpdatedEvent
+----------------------------------------------------------------------------
+ - Order     | Order, OrderItem,  | OrderStatus,       | OrderPlacedEvent,
+             | ShippingDetails    | PaymentDetails     | OrderShippingEvent
+----------------------------------------------------------------------------
+ - Cart      | CartItem           | N/A                | ItemAddedToCartEvent,
+             |         
+           |                    | CartEmptiedEvent
+-----------------------------------------------------------------------------
+ - Inventory | StockItem          | StockLevel         | StockDepletedEvent, 
+             |                    |                    | StockUpdatedEvent
+------------------------------------------------------------------------------
+
+
+
+
+UserAggregate > PaymentMethodEntity
+-----------------------------------
+ - it is an entity; because it has an Id
+ - it is in UserAggregate because User can have multiple payment methods.
+
+
+UserAggregate > EmailValueObject, PhoneNumberValueObject
+--------------------------------------------------------
+ - No Unique Identity:the same email or phone number can belong to different users in some cases (e.g., support email)
+ - Immutable: once created, email or phone number shouldn't change
+ - Used in Multiple Entities: can be used in User, Order, CustomerSupport.
+
+
+ProductAggregate > MonyValueObject
+----------------------------------
+ - No Unique Identity: two amounts of $100 are identical
+ - Immutable
+ - Encapsulate Business Rules: ensure valid amounts, correct currency.
+ - Used in Multiple Entities: can be used in Order, Product, CartItem, Payment.
+
+
+
+OrderAggregate > ShippingDetails
+---------------------------------
+ - it is responsible for handling all shipping-related info in an order.
+ - it provides shipping method, tracking number, and estimated delivery date.
+ 
+ - Encapsulation: 
+    instead of scatting shipping-related fields inside the Order class,
+    we encapsulate them inside ShippingDetails.
+
+ - Flexibility:
+    if we need to expand shipping details, we can extend this class
+    without modifying the Order class.
+
+ - CartAggregate > CartItem                        OrderAggregate > OrderItem
+   -------------------------                       ---------------------------
+   public ProductId ProductId {get;}                public Product Product {get;}
+   public int Quantity {get; private set;}          public int Quantity {get; private set;}
+   public decimal UnitPrice {get;}                  public decimal UnitPrice {get; }
+
+  We don't reference Order in Cart instead contains its fields directly 
+   is due to separation of concerns between Cart and Order.
+
+  1- Cart is Mutable and Temporary
+     users continuously add/remove items from the Cart.
+     prices may change (discounts, promotions, dynamic pricing)
+ 
+  2- Order is Immutable 
+     once a user checks out, an order is created
+     the order needs to store finalized prices
+
+
+ When the user places an order, we copy data from CartItem to OrderItem.
+ CartItem stores UnitPrice because pices change over time.
+ OrderItem ensures the price at checkout is finalized and doesn't change.
+ At checkout, we copy CartItem data into OrderItem to preserve pricing history.
+
+CartAggregate
+-------------
+ AddItem(ProductId productId, int quantity, decimal unitPrice)
+
+ we didn't pass a CartItem as a parameter, because the aggregate root should manages/owns its entitis,
+ ensure valid data by keeping business logic in Cart.AddItem()
+ avoid inconsistencies by preventing external creation of CartItem objects.
+ 
+
+
+
+
+
+
+
+ - 

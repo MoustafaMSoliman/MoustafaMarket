@@ -6,9 +6,12 @@
 
   <ItemGroup>
     <Folder Include="Common\" />
+    <Folder Include="DTOs\" />
+    <Folder Include="Services\CategoryServices\Command\" />
     <Folder Include="Services\CategoryServices\Common\" />
     <Folder Include="Services\CategoryServices\Query\" />
     <Folder Include="Services\AuthenticationServices\" />
+    <Folder Include="Services\ProductServices\Command\" />
     <Folder Include="Services\ProductServices\Common\" />
     <Folder Include="Services\ProductServices\Query\" />
   </ItemGroup>

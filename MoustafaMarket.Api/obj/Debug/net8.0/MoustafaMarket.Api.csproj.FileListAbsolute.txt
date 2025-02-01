@@ -40,9 +40,6 @@ D:\DotNet Core\Domain Driver Design\Projects\MoustafaMarket\MoustafaMarket.Api\b
 D:\DotNet Core\Domain Driver Design\Projects\MoustafaMarket\MoustafaMarket.Api\bin\Debug\net8.0\MoustafaMarket.Infrastructure.pdb
 D:\DotNet Core\Domain Driver Design\Projects\MoustafaMarket\MoustafaMarket.Api\bin\Debug\net8.0\MoustafaMarket.Domain.pdb
 D:\DotNet Core\Domain Driver Design\Projects\MoustafaMarket\MoustafaMarket.Api\obj\Debug\net8.0\MoustafaMarket.Api.sourcelink.json
-D:\MoustafaMarket\MoustafaMarket.Api\obj\Debug\net8.0\MoustafaMarket.Api.dll
-D:\MoustafaMarket\MoustafaMarket.Api\obj\Debug\net8.0\refint\MoustafaMarket.Api.dll
-D:\MoustafaMarket\MoustafaMarket.Api\obj\Debug\net8.0\MoustafaMarket.Api.pdb
 D:\MoustafaMarket\MoustafaMarket.Api\bin\Debug\net8.0\appsettings.Development.json
 D:\MoustafaMarket\MoustafaMarket.Api\bin\Debug\net8.0\appsettings.json
 D:\MoustafaMarket\MoustafaMarket.Api\bin\Debug\net8.0\MoustafaMarket.Api.exe
@@ -154,5 +151,8 @@ D:\MoustafaMarket\MoustafaMarket.Api\obj\Debug\net8.0\staticwebassets\msbuild.bu
 D:\MoustafaMarket\MoustafaMarket.Api\obj\Debug\net8.0\staticwebassets.pack.json
 D:\MoustafaMarket\MoustafaMarket.Api\obj\Debug\net8.0\scopedcss\bundle\MoustafaMarket.Api.styles.css
 D:\MoustafaMarket\MoustafaMarket.Api\obj\Debug\net8.0\Moustafa.4BF90E49.Up2Date
+D:\MoustafaMarket\MoustafaMarket.Api\obj\Debug\net8.0\MoustafaMarket.Api.dll
+D:\MoustafaMarket\MoustafaMarket.Api\obj\Debug\net8.0\refint\MoustafaMarket.Api.dll
+D:\MoustafaMarket\MoustafaMarket.Api\obj\Debug\net8.0\MoustafaMarket.Api.pdb
 D:\MoustafaMarket\MoustafaMarket.Api\obj\Debug\net8.0\MoustafaMarket.Api.genruntimeconfig.cache
 D:\MoustafaMarket\MoustafaMarket.Api\obj\Debug\net8.0\ref\MoustafaMarket.Api.dll

@@ -3,8 +3,96 @@
   "WorkspaceRootPath": "D:\\MoustafaMarket\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{65A85CBC-1074-4B42-A87C-5788567F0083}|MoustafaMarket.Infrastructure\\MoustafaMarket.Infrastructure.csproj|d:\\moustafamarket\\moustafamarket.infrastructure\\moustafamarket.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{65A85CBC-1074-4B42-A87C-5788567F0083}|MoustafaMarket.Infrastructure\\MoustafaMarket.Infrastructure.csproj|solutionrelative:moustafamarket.infrastructure\\moustafamarket.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{65A85CBC-1074-4B42-A87C-5788567F0083}|MoustafaMarket.Infrastructure\\MoustafaMarket.Infrastructure.csproj|d:\\moustafamarket\\moustafamarket.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A85CBC-1074-4B42-A87C-5788567F0083}|MoustafaMarket.Infrastructure\\MoustafaMarket.Infrastructure.csproj|solutionrelative:moustafamarket.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A85CBC-1074-4B42-A87C-5788567F0083}|MoustafaMarket.Infrastructure\\MoustafaMarket.Infrastructure.csproj|d:\\moustafamarket\\moustafamarket.infrastructure\\persistence\\marketdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A85CBC-1074-4B42-A87C-5788567F0083}|MoustafaMarket.Infrastructure\\MoustafaMarket.Infrastructure.csproj|solutionrelative:moustafamarket.infrastructure\\persistence\\marketdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34CF857-8299-41CC-8E8F-F3C031F8EDDA}|MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj|d:\\moustafamarket\\moustafamarket.domain\\orderaggregate\\entities\\shippingdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34CF857-8299-41CC-8E8F-F3C031F8EDDA}|MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj|solutionrelative:moustafamarket.domain\\orderaggregate\\entities\\shippingdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A3EA32-F02B-4E0D-8D98-A3E15DC9B195}|MoustafaMarket.Application\\MoustafaMarket.Application.csproj|d:\\moustafamarket\\moustafamarket.application\\persistence\\igeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A3EA32-F02B-4E0D-8D98-A3E15DC9B195}|MoustafaMarket.Application\\MoustafaMarket.Application.csproj|solutionrelative:moustafamarket.application\\persistence\\igeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34CF857-8299-41CC-8E8F-F3C031F8EDDA}|MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj|d:\\moustafamarket\\moustafamarket.domain\\useraggregate\\valueobjects\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34CF857-8299-41CC-8E8F-F3C031F8EDDA}|MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj|solutionrelative:moustafamarket.domain\\useraggregate\\valueobjects\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34CF857-8299-41CC-8E8F-F3C031F8EDDA}|MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj|d:\\moustafamarket\\moustafamarket.domain\\common\\errors\\errors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34CF857-8299-41CC-8E8F-F3C031F8EDDA}|MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj|solutionrelative:moustafamarket.domain\\common\\errors\\errors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34CF857-8299-41CC-8E8F-F3C031F8EDDA}|MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj|d:\\moustafamarket\\moustafamarket.domain\\useraggregate\\valueobjects\\addressid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34CF857-8299-41CC-8E8F-F3C031F8EDDA}|MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj|solutionrelative:moustafamarket.domain\\useraggregate\\valueobjects\\addressid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34CF857-8299-41CC-8E8F-F3C031F8EDDA}|MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj|d:\\moustafamarket\\moustafamarket.domain\\useraggregate\\valueobjects\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34CF857-8299-41CC-8E8F-F3C031F8EDDA}|MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj|solutionrelative:moustafamarket.domain\\useraggregate\\valueobjects\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34CF857-8299-41CC-8E8F-F3C031F8EDDA}|MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj|d:\\moustafamarket\\moustafamarket.domain\\inventoryaggregate\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34CF857-8299-41CC-8E8F-F3C031F8EDDA}|MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj|solutionrelative:moustafamarket.domain\\inventoryaggregate\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34CF857-8299-41CC-8E8F-F3C031F8EDDA}|MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj|d:\\moustafamarket\\moustafamarket.domain\\common\\errors\\inventoryerrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34CF857-8299-41CC-8E8F-F3C031F8EDDA}|MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj|solutionrelative:moustafamarket.domain\\common\\errors\\inventoryerrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34CF857-8299-41CC-8E8F-F3C031F8EDDA}|MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj|d:\\moustafamarket\\moustafamarket.domain\\inventoryaggregate\\entities\\stockitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34CF857-8299-41CC-8E8F-F3C031F8EDDA}|MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj|solutionrelative:moustafamarket.domain\\inventoryaggregate\\entities\\stockitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34CF857-8299-41CC-8E8F-F3C031F8EDDA}|MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj|d:\\moustafamarket\\moustafamarket.domain\\common\\errors\\stockitemerrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34CF857-8299-41CC-8E8F-F3C031F8EDDA}|MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj|solutionrelative:moustafamarket.domain\\common\\errors\\stockitemerrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34CF857-8299-41CC-8E8F-F3C031F8EDDA}|MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj|d:\\moustafamarket\\moustafamarket.domain\\inventoryaggregate\\valueobjects\\inventoryid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34CF857-8299-41CC-8E8F-F3C031F8EDDA}|MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj|solutionrelative:moustafamarket.domain\\inventoryaggregate\\valueobjects\\inventoryid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34CF857-8299-41CC-8E8F-F3C031F8EDDA}|MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj|d:\\moustafamarket\\moustafamarket.domain\\inventoryaggregate\\valueobjects\\stocklevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34CF857-8299-41CC-8E8F-F3C031F8EDDA}|MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj|solutionrelative:moustafamarket.domain\\inventoryaggregate\\valueobjects\\stocklevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34CF857-8299-41CC-8E8F-F3C031F8EDDA}|MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj|d:\\moustafamarket\\moustafamarket.domain\\inventoryaggregate\\valueobjects\\stockitemid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34CF857-8299-41CC-8E8F-F3C031F8EDDA}|MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj|solutionrelative:moustafamarket.domain\\inventoryaggregate\\valueobjects\\stockitemid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34CF857-8299-41CC-8E8F-F3C031F8EDDA}|MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj|d:\\moustafamarket\\moustafamarket.domain\\common\\errors\\stocklevelerrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34CF857-8299-41CC-8E8F-F3C031F8EDDA}|MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj|solutionrelative:moustafamarket.domain\\common\\errors\\stocklevelerrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34CF857-8299-41CC-8E8F-F3C031F8EDDA}|MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj|d:\\moustafamarket\\moustafamarket.domain\\common\\errors\\cartitemerrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34CF857-8299-41CC-8E8F-F3C031F8EDDA}|MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj|solutionrelative:moustafamarket.domain\\common\\errors\\cartitemerrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34CF857-8299-41CC-8E8F-F3C031F8EDDA}|MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj|d:\\moustafamarket\\moustafamarket.domain\\moustafamarket.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B34CF857-8299-41CC-8E8F-F3C031F8EDDA}|MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj|solutionrelative:moustafamarket.domain\\moustafamarket.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34CF857-8299-41CC-8E8F-F3C031F8EDDA}|MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj|d:\\moustafamarket\\moustafamarket.domain\\cartaggregate\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34CF857-8299-41CC-8E8F-F3C031F8EDDA}|MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj|solutionrelative:moustafamarket.domain\\cartaggregate\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34CF857-8299-41CC-8E8F-F3C031F8EDDA}|MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj|d:\\moustafamarket\\moustafamarket.domain\\cartaggregate\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34CF857-8299-41CC-8E8F-F3C031F8EDDA}|MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj|solutionrelative:moustafamarket.domain\\cartaggregate\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34CF857-8299-41CC-8E8F-F3C031F8EDDA}|MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj|d:\\moustafamarket\\moustafamarket.domain\\common\\errors\\carterrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34CF857-8299-41CC-8E8F-F3C031F8EDDA}|MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj|solutionrelative:moustafamarket.domain\\common\\errors\\carterrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34CF857-8299-41CC-8E8F-F3C031F8EDDA}|MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj|d:\\moustafamarket\\moustafamarket.domain\\cartaggregate\\valueobjects\\cartitemid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34CF857-8299-41CC-8E8F-F3C031F8EDDA}|MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj|solutionrelative:moustafamarket.domain\\cartaggregate\\valueobjects\\cartitemid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34CF857-8299-41CC-8E8F-F3C031F8EDDA}|MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj|d:\\moustafamarket\\moustafamarket.domain\\cartaggregate\\valueobjects\\cartid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34CF857-8299-41CC-8E8F-F3C031F8EDDA}|MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj|solutionrelative:moustafamarket.domain\\cartaggregate\\valueobjects\\cartid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +107,300 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MoustafaMarket.Infrastructure.csproj",
-              "DocumentMoniker": "D:\\MoustafaMarket\\MoustafaMarket.Infrastructure\\MoustafaMarket.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "MoustafaMarket.Infrastructure\\MoustafaMarket.Infrastructure.csproj",
-              "ToolTip": "D:\\MoustafaMarket\\MoustafaMarket.Infrastructure\\MoustafaMarket.Infrastructure.csproj",
-              "RelativeToolTip": "MoustafaMarket.Infrastructure\\MoustafaMarket.Infrastructure.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\MoustafaMarket\\MoustafaMarket.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "MoustafaMarket.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "D:\\MoustafaMarket\\MoustafaMarket.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "MoustafaMarket.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T01:08:59.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShippingDetails.cs",
+              "DocumentMoniker": "D:\\MoustafaMarket\\MoustafaMarket.Domain\\OrderAggregate\\Entities\\ShippingDetails.cs",
+              "RelativeDocumentMoniker": "MoustafaMarket.Domain\\OrderAggregate\\Entities\\ShippingDetails.cs",
+              "ToolTip": "D:\\MoustafaMarket\\MoustafaMarket.Domain\\OrderAggregate\\Entities\\ShippingDetails.cs",
+              "RelativeToolTip": "MoustafaMarket.Domain\\OrderAggregate\\Entities\\ShippingDetails.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAIAzwBQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T01:07:59.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MarketDbContext.cs",
+              "DocumentMoniker": "D:\\MoustafaMarket\\MoustafaMarket.Infrastructure\\Persistence\\MarketDbContext.cs",
+              "RelativeDocumentMoniker": "MoustafaMarket.Infrastructure\\Persistence\\MarketDbContext.cs",
+              "ToolTip": "D:\\MoustafaMarket\\MoustafaMarket.Infrastructure\\Persistence\\MarketDbContext.cs",
+              "RelativeToolTip": "MoustafaMarket.Infrastructure\\Persistence\\MarketDbContext.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T01:06:59.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IGeneric.cs",
+              "DocumentMoniker": "D:\\MoustafaMarket\\MoustafaMarket.Application\\Persistence\\IGeneric.cs",
+              "RelativeDocumentMoniker": "MoustafaMarket.Application\\Persistence\\IGeneric.cs",
+              "ToolTip": "D:\\MoustafaMarket\\MoustafaMarket.Application\\Persistence\\IGeneric.cs",
+              "RelativeToolTip": "MoustafaMarket.Application\\Persistence\\IGeneric.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T01:06:53.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PhoneNumber.cs",
+              "DocumentMoniker": "D:\\MoustafaMarket\\MoustafaMarket.Domain\\UserAggregate\\ValueObjects\\PhoneNumber.cs",
+              "RelativeDocumentMoniker": "MoustafaMarket.Domain\\UserAggregate\\ValueObjects\\PhoneNumber.cs",
+              "ToolTip": "D:\\MoustafaMarket\\MoustafaMarket.Domain\\UserAggregate\\ValueObjects\\PhoneNumber.cs",
+              "RelativeToolTip": "MoustafaMarket.Domain\\UserAggregate\\ValueObjects\\PhoneNumber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T01:02:42.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddressId.cs",
+              "DocumentMoniker": "D:\\MoustafaMarket\\MoustafaMarket.Domain\\UserAggregate\\ValueObjects\\AddressId.cs",
+              "RelativeDocumentMoniker": "MoustafaMarket.Domain\\UserAggregate\\ValueObjects\\AddressId.cs",
+              "ToolTip": "D:\\MoustafaMarket\\MoustafaMarket.Domain\\UserAggregate\\ValueObjects\\AddressId.cs",
+              "RelativeToolTip": "MoustafaMarket.Domain\\UserAggregate\\ValueObjects\\AddressId.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T01:01:55.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Errors.cs",
+              "DocumentMoniker": "D:\\MoustafaMarket\\MoustafaMarket.Domain\\Common\\Errors\\Errors.cs",
+              "RelativeDocumentMoniker": "MoustafaMarket.Domain\\Common\\Errors\\Errors.cs",
+              "ToolTip": "D:\\MoustafaMarket\\MoustafaMarket.Domain\\Common\\Errors\\Errors.cs",
+              "RelativeToolTip": "MoustafaMarket.Domain\\Common\\Errors\\Errors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAACOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T00:54:40.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Email.cs",
+              "DocumentMoniker": "D:\\MoustafaMarket\\MoustafaMarket.Domain\\UserAggregate\\ValueObjects\\Email.cs",
+              "RelativeDocumentMoniker": "MoustafaMarket.Domain\\UserAggregate\\ValueObjects\\Email.cs",
+              "ToolTip": "D:\\MoustafaMarket\\MoustafaMarket.Domain\\UserAggregate\\ValueObjects\\Email.cs",
+              "RelativeToolTip": "MoustafaMarket.Domain\\UserAggregate\\ValueObjects\\Email.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAiwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T00:47:11.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InventoryErrors.cs",
+              "DocumentMoniker": "D:\\MoustafaMarket\\MoustafaMarket.Domain\\Common\\Errors\\InventoryErrors.cs",
+              "RelativeDocumentMoniker": "MoustafaMarket.Domain\\Common\\Errors\\InventoryErrors.cs",
+              "ToolTip": "D:\\MoustafaMarket\\MoustafaMarket.Domain\\Common\\Errors\\InventoryErrors.cs",
+              "RelativeToolTip": "MoustafaMarket.Domain\\Common\\Errors\\InventoryErrors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T00:33:42.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InventoryId.cs",
+              "DocumentMoniker": "D:\\MoustafaMarket\\MoustafaMarket.Domain\\InventoryAggregate\\ValueObjects\\InventoryId.cs",
+              "RelativeDocumentMoniker": "MoustafaMarket.Domain\\InventoryAggregate\\ValueObjects\\InventoryId.cs",
+              "ToolTip": "D:\\MoustafaMarket\\MoustafaMarket.Domain\\InventoryAggregate\\ValueObjects\\InventoryId.cs",
+              "RelativeToolTip": "MoustafaMarket.Domain\\InventoryAggregate\\ValueObjects\\InventoryId.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T00:26:25.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "D:\\MoustafaMarket\\MoustafaMarket.Domain\\InventoryAggregate\\Inventory.cs",
+              "RelativeDocumentMoniker": "MoustafaMarket.Domain\\InventoryAggregate\\Inventory.cs",
+              "ToolTip": "D:\\MoustafaMarket\\MoustafaMarket.Domain\\InventoryAggregate\\Inventory.cs",
+              "RelativeToolTip": "MoustafaMarket.Domain\\InventoryAggregate\\Inventory.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAywC0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T00:26:04.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StockItemErrors.cs",
+              "DocumentMoniker": "D:\\MoustafaMarket\\MoustafaMarket.Domain\\Common\\Errors\\StockItemErrors.cs",
+              "RelativeDocumentMoniker": "MoustafaMarket.Domain\\Common\\Errors\\StockItemErrors.cs",
+              "ToolTip": "D:\\MoustafaMarket\\MoustafaMarket.Domain\\Common\\Errors\\StockItemErrors.cs",
+              "RelativeToolTip": "MoustafaMarket.Domain\\Common\\Errors\\StockItemErrors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T00:18:08.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StockItemId.cs",
+              "DocumentMoniker": "D:\\MoustafaMarket\\MoustafaMarket.Domain\\InventoryAggregate\\ValueObjects\\StockItemId.cs",
+              "RelativeDocumentMoniker": "MoustafaMarket.Domain\\InventoryAggregate\\ValueObjects\\StockItemId.cs",
+              "ToolTip": "D:\\MoustafaMarket\\MoustafaMarket.Domain\\InventoryAggregate\\ValueObjects\\StockItemId.cs",
+              "RelativeToolTip": "MoustafaMarket.Domain\\InventoryAggregate\\ValueObjects\\StockItemId.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T00:12:19.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StockItem.cs",
+              "DocumentMoniker": "D:\\MoustafaMarket\\MoustafaMarket.Domain\\InventoryAggregate\\Entities\\StockItem.cs",
+              "RelativeDocumentMoniker": "MoustafaMarket.Domain\\InventoryAggregate\\Entities\\StockItem.cs",
+              "ToolTip": "D:\\MoustafaMarket\\MoustafaMarket.Domain\\InventoryAggregate\\Entities\\StockItem.cs",
+              "RelativeToolTip": "MoustafaMarket.Domain\\InventoryAggregate\\Entities\\StockItem.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwBcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T00:11:30.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StockLevelErrors.cs",
+              "DocumentMoniker": "D:\\MoustafaMarket\\MoustafaMarket.Domain\\Common\\Errors\\StockLevelErrors.cs",
+              "RelativeDocumentMoniker": "MoustafaMarket.Domain\\Common\\Errors\\StockLevelErrors.cs",
+              "ToolTip": "D:\\MoustafaMarket\\MoustafaMarket.Domain\\Common\\Errors\\StockLevelErrors.cs",
+              "RelativeToolTip": "MoustafaMarket.Domain\\Common\\Errors\\StockLevelErrors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T23:13:55.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StockLevel.cs",
+              "DocumentMoniker": "D:\\MoustafaMarket\\MoustafaMarket.Domain\\InventoryAggregate\\ValueObjects\\StockLevel.cs",
+              "RelativeDocumentMoniker": "MoustafaMarket.Domain\\InventoryAggregate\\ValueObjects\\StockLevel.cs",
+              "ToolTip": "D:\\MoustafaMarket\\MoustafaMarket.Domain\\InventoryAggregate\\ValueObjects\\StockLevel.cs",
+              "RelativeToolTip": "MoustafaMarket.Domain\\InventoryAggregate\\ValueObjects\\StockLevel.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA2wBsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T23:06:34.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CartErrors.cs",
+              "DocumentMoniker": "D:\\MoustafaMarket\\MoustafaMarket.Domain\\Common\\Errors\\CartErrors.cs",
+              "RelativeDocumentMoniker": "MoustafaMarket.Domain\\Common\\Errors\\CartErrors.cs",
+              "ToolTip": "D:\\MoustafaMarket\\MoustafaMarket.Domain\\Common\\Errors\\CartErrors.cs",
+              "RelativeToolTip": "MoustafaMarket.Domain\\Common\\Errors\\CartErrors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T21:38:01.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CartItemErrors.cs",
+              "DocumentMoniker": "D:\\MoustafaMarket\\MoustafaMarket.Domain\\Common\\Errors\\CartItemErrors.cs",
+              "RelativeDocumentMoniker": "MoustafaMarket.Domain\\Common\\Errors\\CartItemErrors.cs",
+              "ToolTip": "D:\\MoustafaMarket\\MoustafaMarket.Domain\\Common\\Errors\\CartItemErrors.cs",
+              "RelativeToolTip": "MoustafaMarket.Domain\\Common\\Errors\\CartItemErrors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T21:04:30.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CartItemId.cs",
+              "DocumentMoniker": "D:\\MoustafaMarket\\MoustafaMarket.Domain\\CartAggregate\\ValueObjects\\CartItemId.cs",
+              "RelativeDocumentMoniker": "MoustafaMarket.Domain\\CartAggregate\\ValueObjects\\CartItemId.cs",
+              "ToolTip": "D:\\MoustafaMarket\\MoustafaMarket.Domain\\CartAggregate\\ValueObjects\\CartItemId.cs",
+              "RelativeToolTip": "MoustafaMarket.Domain\\CartAggregate\\ValueObjects\\CartItemId.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T20:36:00.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\MoustafaMarket\\MoustafaMarket.Domain\\CartAggregate\\Entities\\CartItem.cs",
+              "RelativeDocumentMoniker": "MoustafaMarket.Domain\\CartAggregate\\Entities\\CartItem.cs",
+              "ToolTip": "D:\\MoustafaMarket\\MoustafaMarket.Domain\\CartAggregate\\Entities\\CartItem.cs",
+              "RelativeToolTip": "MoustafaMarket.Domain\\CartAggregate\\Entities\\CartItem.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T20:35:47.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CartId.cs",
+              "DocumentMoniker": "D:\\MoustafaMarket\\MoustafaMarket.Domain\\CartAggregate\\ValueObjects\\CartId.cs",
+              "RelativeDocumentMoniker": "MoustafaMarket.Domain\\CartAggregate\\ValueObjects\\CartId.cs",
+              "ToolTip": "D:\\MoustafaMarket\\MoustafaMarket.Domain\\CartAggregate\\ValueObjects\\CartId.cs",
+              "RelativeToolTip": "MoustafaMarket.Domain\\CartAggregate\\ValueObjects\\CartId.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T20:33:09.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\MoustafaMarket\\MoustafaMarket.Domain\\CartAggregate\\Cart.cs",
+              "RelativeDocumentMoniker": "MoustafaMarket.Domain\\CartAggregate\\Cart.cs",
+              "ToolTip": "D:\\MoustafaMarket\\MoustafaMarket.Domain\\CartAggregate\\Cart.cs",
+              "RelativeToolTip": "MoustafaMarket.Domain\\CartAggregate\\Cart.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAuwDoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T20:32:26.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MoustafaMarket.Domain",
+              "DocumentMoniker": "D:\\MoustafaMarket\\MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj",
+              "RelativeDocumentMoniker": "MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj",
+              "ToolTip": "D:\\MoustafaMarket\\MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj",
+              "RelativeToolTip": "MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-23T11:31:03.48Z",
+              "WhenOpened": "2025-01-31T20:31:46.922Z",
               "EditorCaption": ""
             }
           ]

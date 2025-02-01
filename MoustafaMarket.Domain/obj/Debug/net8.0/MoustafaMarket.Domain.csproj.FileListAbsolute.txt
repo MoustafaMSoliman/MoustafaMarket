@@ -10,9 +10,6 @@ D:\DotNet Core\Domain Driver Design\Projects\MoustafaMarket\MoustafaMarket.Domai
 D:\DotNet Core\Domain Driver Design\Projects\MoustafaMarket\MoustafaMarket.Domain\obj\Debug\net8.0\MoustafaMarket.Domain.pdb
 D:\DotNet Core\Domain Driver Design\Projects\MoustafaMarket\MoustafaMarket.Domain\obj\Debug\net8.0\ref\MoustafaMarket.Domain.dll
 D:\DotNet Core\Domain Driver Design\Projects\MoustafaMarket\MoustafaMarket.Domain\obj\Debug\net8.0\MoustafaMarket.Domain.sourcelink.json
-D:\MoustafaMarket\MoustafaMarket.Domain\obj\Debug\net8.0\MoustafaMarket.Domain.dll
-D:\MoustafaMarket\MoustafaMarket.Domain\obj\Debug\net8.0\refint\MoustafaMarket.Domain.dll
-D:\MoustafaMarket\MoustafaMarket.Domain\obj\Debug\net8.0\MoustafaMarket.Domain.pdb
 D:\MoustafaMarket\MoustafaMarket.Domain\bin\Debug\net8.0\MoustafaMarket.Domain.deps.json
 D:\MoustafaMarket\MoustafaMarket.Domain\bin\Debug\net8.0\MoustafaMarket.Domain.dll
 D:\MoustafaMarket\MoustafaMarket.Domain\bin\Debug\net8.0\MoustafaMarket.Domain.pdb
@@ -22,4 +19,7 @@ D:\MoustafaMarket\MoustafaMarket.Domain\obj\Debug\net8.0\MoustafaMarket.Domain.A
 D:\MoustafaMarket\MoustafaMarket.Domain\obj\Debug\net8.0\MoustafaMarket.Domain.AssemblyInfo.cs
 D:\MoustafaMarket\MoustafaMarket.Domain\obj\Debug\net8.0\MoustafaMarket.Domain.csproj.CoreCompileInputs.cache
 D:\MoustafaMarket\MoustafaMarket.Domain\obj\Debug\net8.0\MoustafaMarket.Domain.sourcelink.json
+D:\MoustafaMarket\MoustafaMarket.Domain\obj\Debug\net8.0\MoustafaMarket.Domain.dll
+D:\MoustafaMarket\MoustafaMarket.Domain\obj\Debug\net8.0\refint\MoustafaMarket.Domain.dll
+D:\MoustafaMarket\MoustafaMarket.Domain\obj\Debug\net8.0\MoustafaMarket.Domain.pdb
 D:\MoustafaMarket\MoustafaMarket.Domain\obj\Debug\net8.0\ref\MoustafaMarket.Domain.dll

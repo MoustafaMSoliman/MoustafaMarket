@@ -1,13 +1,12 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using MoustafaMarket.Domain.ProductAggregate;
-using MoustafaMarket.Domain.CategoryAggregate;
 
 namespace MoustafaMarket.Infrastructure.Persistence;
 
 public  class MarketDbContext : DbContext
 {
     public DbSet<Product> Products { get; set; } = null!;
-    public DbSet<Category> Categories { get; set; } = null!;
+    
     public MarketDbContext()
     {
         
