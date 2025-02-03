@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Infrastructure\\MoustafaMarket.Infrastructure.csproj": {}
+    "D:\\MoustafaMarket\\MoustafaMarket.Infrastructure\\MoustafaMarket.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Application\\MoustafaMarket.Application.csproj": {
+    "D:\\MoustafaMarket\\MoustafaMarket.Application\\MoustafaMarket.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Application\\MoustafaMarket.Application.csproj",
+        "projectUniqueName": "D:\\MoustafaMarket\\MoustafaMarket.Application\\MoustafaMarket.Application.csproj",
         "projectName": "MoustafaMarket.Application",
-        "projectPath": "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Application\\MoustafaMarket.Application.csproj",
-        "packagesPath": "C:\\Users\\Desha\\.nuget\\packages\\",
-        "outputPath": "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Application\\obj\\",
+        "projectPath": "D:\\MoustafaMarket\\MoustafaMarket.Application\\MoustafaMarket.Application.csproj",
+        "packagesPath": "C:\\Users\\Moustafa\\.nuget\\packages\\",
+        "outputPath": "D:\\MoustafaMarket\\MoustafaMarket.Application\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Desha\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Moustafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,15 +22,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj": {
-                "projectPath": "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj"
+              "D:\\MoustafaMarket\\MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj": {
+                "projectPath": "D:\\MoustafaMarket\\MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj"
               }
             }
           }
@@ -95,25 +90,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj": {
+    "D:\\MoustafaMarket\\MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj",
+        "projectUniqueName": "D:\\MoustafaMarket\\MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj",
         "projectName": "MoustafaMarket.Domain",
-        "projectPath": "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj",
-        "packagesPath": "C:\\Users\\Desha\\.nuget\\packages\\",
-        "outputPath": "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Domain\\obj\\",
+        "projectPath": "D:\\MoustafaMarket\\MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj",
+        "packagesPath": "C:\\Users\\Moustafa\\.nuget\\packages\\",
+        "outputPath": "D:\\MoustafaMarket\\MoustafaMarket.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Desha\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Moustafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -121,7 +112,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -166,25 +156,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Infrastructure\\MoustafaMarket.Infrastructure.csproj": {
+    "D:\\MoustafaMarket\\MoustafaMarket.Infrastructure\\MoustafaMarket.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Infrastructure\\MoustafaMarket.Infrastructure.csproj",
+        "projectUniqueName": "D:\\MoustafaMarket\\MoustafaMarket.Infrastructure\\MoustafaMarket.Infrastructure.csproj",
         "projectName": "MoustafaMarket.Infrastructure",
-        "projectPath": "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Infrastructure\\MoustafaMarket.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Desha\\.nuget\\packages\\",
-        "outputPath": "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Infrastructure\\obj\\",
+        "projectPath": "D:\\MoustafaMarket\\MoustafaMarket.Infrastructure\\MoustafaMarket.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Moustafa\\.nuget\\packages\\",
+        "outputPath": "D:\\MoustafaMarket\\MoustafaMarket.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Desha\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Moustafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -192,15 +178,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Application\\MoustafaMarket.Application.csproj": {
-                "projectPath": "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Application\\MoustafaMarket.Application.csproj"
+              "D:\\MoustafaMarket\\MoustafaMarket.Application\\MoustafaMarket.Application.csproj": {
+                "projectPath": "D:\\MoustafaMarket\\MoustafaMarket.Application\\MoustafaMarket.Application.csproj"
               }
             }
           }
@@ -273,7 +258,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,88 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{1E71FF6C-57BC-4097-B4D3-17B4C34E87A9}|MoustafaMarket.Contracts\\MoustafaMarket.Contracts.csproj|d:\\dotnet core\\domain driver design\\projects\\moustafamarket\\moustafamarket.contracts\\product\\entities\\category\\createcategoryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E71FF6C-57BC-4097-B4D3-17B4C34E87A9}|MoustafaMarket.Contracts\\MoustafaMarket.Contracts.csproj|solutionrelative:moustafamarket.contracts\\product\\entities\\category\\createcategoryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E71FF6C-57BC-4097-B4D3-17B4C34E87A9}|MoustafaMarket.Contracts\\MoustafaMarket.Contracts.csproj|d:\\dotnet core\\domain driver design\\projects\\moustafamarket\\moustafamarket.contracts\\product\\entities\\category\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E71FF6C-57BC-4097-B4D3-17B4C34E87A9}|MoustafaMarket.Contracts\\MoustafaMarket.Contracts.csproj|solutionrelative:moustafamarket.contracts\\product\\entities\\category\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E71FF6C-57BC-4097-B4D3-17B4C34E87A9}|MoustafaMarket.Contracts\\MoustafaMarket.Contracts.csproj|d:\\dotnet core\\domain driver design\\projects\\moustafamarket\\moustafamarket.contracts\\product\\entities\\review\\createreviewresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E71FF6C-57BC-4097-B4D3-17B4C34E87A9}|MoustafaMarket.Contracts\\MoustafaMarket.Contracts.csproj|solutionrelative:moustafamarket.contracts\\product\\entities\\review\\createreviewresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E71FF6C-57BC-4097-B4D3-17B4C34E87A9}|MoustafaMarket.Contracts\\MoustafaMarket.Contracts.csproj|d:\\dotnet core\\domain driver design\\projects\\moustafamarket\\moustafamarket.contracts\\product\\entities\\review\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E71FF6C-57BC-4097-B4D3-17B4C34E87A9}|MoustafaMarket.Contracts\\MoustafaMarket.Contracts.csproj|solutionrelative:moustafamarket.contracts\\product\\entities\\review\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "D:\\MoustafaMarket\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CategoryDTO.cs",
-              "DocumentMoniker": "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Contracts\\Product\\Entities\\Category\\CategoryDTO.cs",
-              "RelativeDocumentMoniker": "MoustafaMarket.Contracts\\Product\\Entities\\Category\\CategoryDTO.cs",
-              "ToolTip": "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Contracts\\Product\\Entities\\Category\\CategoryDTO.cs",
-              "RelativeToolTip": "MoustafaMarket.Contracts\\Product\\Entities\\Category\\CategoryDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T14:15:45.345Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CreateCategoryResponse.cs",
-              "DocumentMoniker": "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Contracts\\Product\\Entities\\Category\\CreateCategoryResponse.cs",
-              "RelativeDocumentMoniker": "MoustafaMarket.Contracts\\Product\\Entities\\Category\\CreateCategoryResponse.cs",
-              "ToolTip": "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Contracts\\Product\\Entities\\Category\\CreateCategoryResponse.cs",
-              "RelativeToolTip": "MoustafaMarket.Contracts\\Product\\Entities\\Category\\CreateCategoryResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T14:15:42.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ReviewDTO.cs",
-              "DocumentMoniker": "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Contracts\\Product\\Entities\\Review\\ReviewDTO.cs",
-              "RelativeDocumentMoniker": "MoustafaMarket.Contracts\\Product\\Entities\\Review\\ReviewDTO.cs",
-              "ToolTip": "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Contracts\\Product\\Entities\\Review\\ReviewDTO.cs",
-              "RelativeToolTip": "MoustafaMarket.Contracts\\Product\\Entities\\Review\\ReviewDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T14:11:55.888Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CreateReviewResponse.cs",
-              "DocumentMoniker": "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Contracts\\Product\\Entities\\Review\\CreateReviewResponse.cs",
-              "RelativeDocumentMoniker": "MoustafaMarket.Contracts\\Product\\Entities\\Review\\CreateReviewResponse.cs",
-              "ToolTip": "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Contracts\\Product\\Entities\\Review\\CreateReviewResponse.cs",
-              "RelativeToolTip": "MoustafaMarket.Contracts\\Product\\Entities\\Review\\CreateReviewResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T14:11:32.802Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

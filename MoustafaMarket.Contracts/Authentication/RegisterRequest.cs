@@ -1,4 +1,6 @@
-﻿namespace MoustafaMarket.Contracts.Authentication;
+﻿using MoustafaMarket.Contracts.Common.DTOs;
+
+namespace MoustafaMarket.Contracts.Authentication;
 
 public record RegisterRequest
 (
@@ -10,12 +12,4 @@ public record RegisterRequest
     string PhoneNumber,
     Address Address
 );
-public record Address
-(
-    string Street,
-    string City,
-    string State,
-    string ZipCode,
-    string Country,
-    bool IsPrimary
-);
+

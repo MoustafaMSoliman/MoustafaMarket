@@ -1,4 +1,6 @@
-﻿namespace MoustafaMarket.Contracts.Product;
+﻿using MoustafaMarket.Contracts.Common.DTOs;
+
+namespace MoustafaMarket.Contracts.Product;
 
 public record UpdateProductRequest
 (

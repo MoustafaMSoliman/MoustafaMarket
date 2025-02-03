@@ -1,15 +1,14 @@
 ﻿namespace MoustafaMarket.Contracts.Product;
 
-public record UpdateProductResponse
+public record ProductDTO
 (
   string Id,
   string Name,
   string Description,
   decimal Price,
   int Quantity,
-  Category Category,
+  string CategoryId,
   string[]? Images,
   DateTime CreatedAt,
   DateTime UpdatedAt
 );
-

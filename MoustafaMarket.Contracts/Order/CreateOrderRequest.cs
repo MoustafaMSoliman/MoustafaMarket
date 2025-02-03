@@ -1,20 +1,10 @@
 ﻿using MoustafaMarket.Contracts.Authentication;
 using MoustafaMarket.Contracts.Cart;
+using MoustafaMarket.Contracts.Order.Entities;
 
 namespace MoustafaMarket.Contracts.Order;
 
 public record CreateOrderRequest
 (
-    CartItem[] CartItems,
-    Address ShippingAddress,
-    PaymentType PaymentType
+    List<OrderItemDTO> OderItems
 );
-public enum PaymentType
-{
-    CreditCard,
-    DebitCard,
-    PayPal,
-    BankTransfer,
-    ApplePay,
-    GooglePay
-}

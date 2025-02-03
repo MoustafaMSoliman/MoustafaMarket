@@ -1,4 +1,6 @@
-﻿namespace MoustafaMarket.Contracts.Product;
+﻿using MoustafaMarket.Contracts.Common.DTOs;
+
+namespace MoustafaMarket.Contracts.Product;
 
 public record CreateProductRequest
 (
@@ -10,19 +12,8 @@ public record CreateProductRequest
     int Quantity,
     string CategoryId
 );
-public record Money
-(
-    decimal Amount,
-    Currency Currency
-);
-public enum Currency
-{
-    USD,
-    EUR,
-    GBP,
-    JPY,
-    AED
-}
+
+
 public record Dimensions
 (
     decimal Length,
