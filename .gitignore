@@ -1,0 +1,71 @@
+# Ignore Visual Studio-specific files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore build output
+bin/
+obj/
+out/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.ilk
+*.map
+*.so
+*.so.db
+*.dylib
+*.lib
+*.a
+*.la
+*.lo
+*.def
+*.exp
+*.swp
+*.dbg
+
+# Ignore NuGet packages
+*.nupkg
+*.snupkg
+packages/
+!packages/repositories.config
+
+# Ignore Rider IDE files
+.idea/
+*.iml
+
+# Ignore .NET Core and ASP.NET files
+appsettings*.json
+secrets.json
+logs/
+wwwroot/dist/
+wwwroot/node_modules/
+node_modules/
+npm-debug.log
+yarn.lock
+pnpm-lock.yaml
+*.db
+*.sqlite
+
+# Ignore Entity Framework migration files (optional)
+Migrations/
+
+# Ignore test results
+TestResults/
+coverage/
+*.coverage
+*.coverlet
+
+# Ignore Resharper files
+_ReSharper*/
+
+# Ignore user-specific config files
+*.vsconfig
+*.vscode/
+
+# Ignore Docker build files (if using Docker)
+docker-compose.override.yml
+.env
