@@ -1,4 +1,4 @@
-﻿namespace MoustafaMarket.Contracts.Product;
+﻿namespace MoustafaMarket.Contracts.Product.Entities.Review;
 
 public record CreateReviewResponse
 (

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MoustafaMarket.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa37026d596ed8ef5826dd2a3e79859a72a2c997")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58ae19d33a08f083166c788402efd3b112a3b317")]
 [assembly: System.Reflection.AssemblyProductAttribute("MoustafaMarket.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MoustafaMarket.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

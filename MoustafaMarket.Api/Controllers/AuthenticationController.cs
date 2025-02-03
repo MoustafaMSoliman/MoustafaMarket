@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using MoustafaMarket.Contracts.Authentication;
 
 namespace MoustafaMarket.Api.Controllers
 {
@@ -8,9 +9,10 @@ namespace MoustafaMarket.Api.Controllers
     public class AuthenticationController : ControllerBase
     {
         [HttpPost]
-        public Task<IActionResult> Register()
+        public async Task<IActionResult> Register(RegisterRequest registerRequest)
         {
-
+            
+            return Ok(registerRequest);
         }
     }
 }

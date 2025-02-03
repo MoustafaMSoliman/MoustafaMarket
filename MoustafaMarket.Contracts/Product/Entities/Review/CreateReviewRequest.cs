@@ -1,4 +1,4 @@
-﻿namespace MoustafaMarket.Contracts.Product;
+﻿namespace MoustafaMarket.Contracts.Product.Entities.Review;
 /* Review creation should not include UserId
  * -----------------------------------------
  * Extract the Id from the JWT token/session.

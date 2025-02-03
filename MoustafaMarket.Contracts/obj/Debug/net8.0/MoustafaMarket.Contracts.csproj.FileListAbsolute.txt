@@ -21,3 +21,4 @@ D:\MoustafaMarket\MoustafaMarket.Contracts\obj\Debug\net8.0\MoustafaMarket.Contr
 D:\MoustafaMarket\MoustafaMarket.Contracts\obj\Debug\net8.0\refint\MoustafaMarket.Contracts.dll
 D:\MoustafaMarket\MoustafaMarket.Contracts\obj\Debug\net8.0\MoustafaMarket.Contracts.pdb
 D:\MoustafaMarket\MoustafaMarket.Contracts\obj\Debug\net8.0\ref\MoustafaMarket.Contracts.dll
+D:\DotNet Core\Domain Driver Design\Projects\MoustafaMarket\MoustafaMarket.Contracts\obj\Debug\net8.0\MoustafaMarket.Contracts.sourcelink.json

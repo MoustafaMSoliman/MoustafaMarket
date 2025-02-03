@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IbNlhiIFaz791aiZp3nhzCa9Mw9Xj6EDQVsTt6PZk9AovDaGZs5D0dtcdn6wkEc/9kB24gzk0m/+1mhXJviThA==",
+  "dgSpecHash": "IjE4xVaj+sU=",
   "success": true,
-  "projectFilePath": "D:\\MoustafaMarket\\MoustafaMarket.Contracts\\MoustafaMarket.Contracts.csproj",
+  "projectFilePath": "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Contracts\\MoustafaMarket.Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
