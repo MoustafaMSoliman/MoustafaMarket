@@ -1,4 +1,6 @@
-﻿namespace MoustafaMarket.Contracts.Authentication;
+﻿using MoustafaMarket.Contracts.Common.DTOs;
+
+namespace MoustafaMarket.Contracts.Authentication;
 
 public record UpdateProfile
 (
