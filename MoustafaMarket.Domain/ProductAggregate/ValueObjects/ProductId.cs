@@ -13,7 +13,7 @@ public class ProductId : ValueObject
     {
         Value = value;
     }
-    public ProductId CreateUnique()=>new(Guid.NewGuid());
+    public static ProductId CreateUnique()=>new(Guid.NewGuid());
 
     public override IEnumerable<object> GetEqualityComponents()
     {
