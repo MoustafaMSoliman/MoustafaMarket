@@ -1,0 +1,8 @@
+﻿POST https://localhost:7140/api/Product/RegisterNewProduct
+Content-Type: application/json
+
+{
+  "name":"iPhone",
+  "description": "iPhone Mobile",
+
+}

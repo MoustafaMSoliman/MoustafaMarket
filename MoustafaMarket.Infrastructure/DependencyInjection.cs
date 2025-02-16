@@ -1,6 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
-using MoustafaMarket.Application.Persistence;
 using MoustafaMarket.Domain.Common.Persistence;
 using MoustafaMarket.Infrastructure.Persistence;
 

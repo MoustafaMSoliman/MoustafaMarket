@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88A3EA32-F02B-4E0D-8D98-A3E15DC9B195}|MoustafaMarket.Application\\MoustafaMarket.Application.csproj|d:\\dotnet core\\domain driver design\\projects\\moustafamarket\\moustafamarket.application\\services\\products\\command\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A3EA32-F02B-4E0D-8D98-A3E15DC9B195}|MoustafaMarket.Application\\MoustafaMarket.Application.csproj|solutionrelative:moustafamarket.application\\services\\products\\command\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03AD9EE1-878C-493E-9275-BE39717A4E1F}|MoustafaMarket.Api\\MoustafaMarket.Api.csproj|d:\\dotnet core\\domain driver design\\projects\\moustafamarket\\moustafamarket.api\\requests\\product.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{03AD9EE1-878C-493E-9275-BE39717A4E1F}|MoustafaMarket.Api\\MoustafaMarket.Api.csproj|solutionrelative:moustafamarket.api\\requests\\product.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88A3EA32-F02B-4E0D-8D98-A3E15DC9B195}|MoustafaMarket.Application\\MoustafaMarket.Application.csproj|d:\\dotnet core\\domain driver design\\projects\\moustafamarket\\moustafamarket.application\\services\\products\\command\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A3EA32-F02B-4E0D-8D98-A3E15DC9B195}|MoustafaMarket.Application\\MoustafaMarket.Application.csproj|solutionrelative:moustafamarket.application\\services\\products\\command\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E71FF6C-57BC-4097-B4D3-17B4C34E87A9}|MoustafaMarket.Contracts\\MoustafaMarket.Contracts.csproj|d:\\dotnet core\\domain driver design\\projects\\moustafamarket\\moustafamarket.contracts\\product\\createproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E71FF6C-57BC-4097-B4D3-17B4C34E87A9}|MoustafaMarket.Contracts\\MoustafaMarket.Contracts.csproj|solutionrelative:moustafamarket.contracts\\product\\createproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88A3EA32-F02B-4E0D-8D98-A3E15DC9B195}|MoustafaMarket.Application\\MoustafaMarket.Application.csproj|d:\\dotnet core\\domain driver design\\projects\\moustafamarket\\moustafamarket.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A3EA32-F02B-4E0D-8D98-A3E15DC9B195}|MoustafaMarket.Application\\MoustafaMarket.Application.csproj|solutionrelative:moustafamarket.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03AD9EE1-878C-493E-9275-BE39717A4E1F}|MoustafaMarket.Api\\MoustafaMarket.Api.csproj|d:\\dotnet core\\domain driver design\\projects\\moustafamarket\\moustafamarket.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03AD9EE1-878C-493E-9275-BE39717A4E1F}|MoustafaMarket.Api\\MoustafaMarket.Api.csproj|solutionrelative:moustafamarket.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65A85CBC-1074-4B42-A87C-5788567F0083}|MoustafaMarket.Infrastructure\\MoustafaMarket.Infrastructure.csproj|d:\\dotnet core\\domain driver design\\projects\\moustafamarket\\moustafamarket.infrastructure\\persistence\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65A85CBC-1074-4B42-A87C-5788567F0083}|MoustafaMarket.Infrastructure\\MoustafaMarket.Infrastructure.csproj|solutionrelative:moustafamarket.infrastructure\\persistence\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B34CF857-8299-41CC-8E8F-F3C031F8EDDA}|MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj|d:\\dotnet core\\domain driver design\\projects\\moustafamarket\\moustafamarket.domain\\common\\persistence\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B34CF857-8299-41CC-8E8F-F3C031F8EDDA}|MoustafaMarket.Domain\\MoustafaMarket.Domain.csproj|solutionrelative:moustafamarket.domain\\common\\persistence\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88A3EA32-F02B-4E0D-8D98-A3E15DC9B195}|MoustafaMarket.Application\\MoustafaMarket.Application.csproj|d:\\dotnet core\\domain driver design\\projects\\moustafamarket\\moustafamarket.application\\services\\products\\common\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88A3EA32-F02B-4E0D-8D98-A3E15DC9B195}|MoustafaMarket.Application\\MoustafaMarket.Application.csproj|solutionrelative:moustafamarket.application\\services\\products\\common\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03AD9EE1-878C-493E-9275-BE39717A4E1F}|MoustafaMarket.Api\\MoustafaMarket.Api.csproj|d:\\dotnet core\\domain driver design\\projects\\moustafamarket\\moustafamarket.api\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03AD9EE1-878C-493E-9275-BE39717A4E1F}|MoustafaMarket.Api\\MoustafaMarket.Api.csproj|solutionrelative:moustafamarket.api\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,85 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Infrastructure\\Persistence\\Repository.cs",
-              "RelativeDocumentMoniker": "MoustafaMarket.Infrastructure\\Persistence\\Repository.cs",
-              "ToolTip": "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Infrastructure\\Persistence\\Repository.cs",
-              "RelativeToolTip": "MoustafaMarket.Infrastructure\\Persistence\\Repository.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAkwCQAAAADAAAA",
+              "DocumentIndex": 1,
+              "Title": "CreateProductRequest.cs",
+              "DocumentMoniker": "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Contracts\\Product\\CreateProductRequest.cs",
+              "RelativeDocumentMoniker": "MoustafaMarket.Contracts\\Product\\CreateProductRequest.cs",
+              "ToolTip": "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Contracts\\Product\\CreateProductRequest.cs",
+              "RelativeToolTip": "MoustafaMarket.Contracts\\Product\\CreateProductRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T15:43:57.206Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Domain\\Common\\Persistence\\IRepository.cs",
-              "RelativeDocumentMoniker": "MoustafaMarket.Domain\\Common\\Persistence\\IRepository.cs",
-              "ToolTip": "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Domain\\Common\\Persistence\\IRepository.cs",
-              "RelativeToolTip": "MoustafaMarket.Domain\\Common\\Persistence\\IRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T15:43:36.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T14:43:19.345Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CreateProductCommandHandler.cs",
-              "DocumentMoniker": "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Application\\Services\\Products\\Command\\CreateProductCommandHandler.cs",
-              "RelativeDocumentMoniker": "MoustafaMarket.Application\\Services\\Products\\Command\\CreateProductCommandHandler.cs",
-              "ToolTip": "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Application\\Services\\Products\\Command\\CreateProductCommandHandler.cs",
-              "RelativeToolTip": "MoustafaMarket.Application\\Services\\Products\\Command\\CreateProductCommandHandler.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T15:38:22.554Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductDTO.cs",
-              "DocumentMoniker": "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Application\\Services\\Products\\Common\\ProductDTO.cs",
-              "RelativeDocumentMoniker": "MoustafaMarket.Application\\Services\\Products\\Common\\ProductDTO.cs",
-              "ToolTip": "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Application\\Services\\Products\\Common\\ProductDTO.cs",
-              "RelativeToolTip": "MoustafaMarket.Application\\Services\\Products\\Common\\ProductDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T15:36:54.856Z",
+              "Title": "Product.http",
+              "DocumentMoniker": "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Api\\Requests\\Product.http",
+              "RelativeDocumentMoniker": "MoustafaMarket.Api\\Requests\\Product.http",
+              "ToolTip": "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Api\\Requests\\Product.http",
+              "RelativeToolTip": "MoustafaMarket.Api\\Requests\\Product.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-11T14:41:40.826Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Application\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "MoustafaMarket.Application\\DependencyInjection.cs",
-              "ToolTip": "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Application\\DependencyInjection.cs",
-              "RelativeToolTip": "MoustafaMarket.Application\\DependencyInjection.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABoAAAA",
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Api\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MoustafaMarket.Api\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Api\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MoustafaMarket.Api\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAkwBQAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T15:36:10.064Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T14:40:58.662Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreateProductCommand.cs",
-              "DocumentMoniker": "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Application\\Services\\Products\\Command\\CreateProductCommand.cs",
-              "RelativeDocumentMoniker": "MoustafaMarket.Application\\Services\\Products\\Command\\CreateProductCommand.cs",
-              "ToolTip": "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Application\\Services\\Products\\Command\\CreateProductCommand.cs",
-              "RelativeToolTip": "MoustafaMarket.Application\\Services\\Products\\Command\\CreateProductCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA2AAAA",
+              "DocumentIndex": 3,
+              "Title": "ApiController.cs",
+              "DocumentMoniker": "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Api\\Controllers\\ApiController.cs",
+              "RelativeDocumentMoniker": "MoustafaMarket.Api\\Controllers\\ApiController.cs",
+              "ToolTip": "D:\\DotNet Core\\Domain Driver Design\\Projects\\MoustafaMarket\\MoustafaMarket.Api\\Controllers\\ApiController.cs",
+              "RelativeToolTip": "MoustafaMarket.Api\\Controllers\\ApiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T15:26:19.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T14:40:54.896Z"
             }
           ]
         }
